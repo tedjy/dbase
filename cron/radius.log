@@ -1,0 +1,16 @@
+Mon Aug 30 13:44:24 2021 : totp Auth: (1165) Login OK: [a.servoise] (from client ipsb port 0)
+Mon Aug 30 13:44:36 2021 : totp Auth: (1166) Login OK: [a.servoise] (from client ipsb port 0)
+Mon Aug 30 13:50:47 2021 : totp Auth: (1167) Login incorrect (pam_ipsb_mfa: pam_authenticate failed: Authentication failure): [ml.robin] (from client ipsb port 0)
+Mon Aug 30 13:50:47 2021 : totp ERROR: (1167) pam_ipsb_mfa: ERROR: pam_authenticate failed: Authentication failure
+Mon Aug 30 13:51:35 2021 : totp Auth: (1168) Login OK: [ml.robin] (from client ipsb port 0)
+Mon Aug 30 13:51:47 2021 : totp Auth: (1169) Login OK: [ml.robin] (from client ipsb port 0)
+Mon Aug 30 15:47:48 2021 : totp Auth: (1170) Login OK: [l.martin] (from client ipsb port 0)
+Mon Aug 30 15:47:59 2021 : totp Auth: (1171) Login OK: [l.martin] (from client ipsb port 0)
+Mon Aug 30 15:49:41 2021 : totp Auth: (1172) Login OK: [t.hoang-nu] (from client ipsb port 0)
+Mon Aug 30 15:49:53 2021 : totp Auth: (1173) Login OK: [t.hoang-nu] (from client ipsb port 0)
+Mon Aug 30 15:52:56 2021 : totp Auth: (1174) Login OK: [c.martin] (from client ipsb port 0)
+Mon Aug 30 15:53:03 2021 : totp Auth: (1175) Login OK: [c.martin] (from client ipsb port 0)
+Mon Aug 30 16:19:57 2021 : totp Auth: (1176) Login incorrect (pam_elhabitat_mfa: pam_authenticate failed: Authentication failure): [TSE05] (from client elh port 0)
+Mon Aug 30 16:19:57 2021 : totp ERROR: (1176) pam_elhabitat_mfa: ERROR: pam_authenticate failed: Authentication failure
+Mon Aug 30 16:28:12 2021 : totp Auth: (1177) Login OK: [TSE05] (from client elh port 0)
+Mon Aug 30 16:40:47 2021 : totp Auth: (1178) Login incorrect (pam_ipsb_mfa: pam_authenticate failed: Authentication failure): [v.bougain] (from client ipsb port 0)
